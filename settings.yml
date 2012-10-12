@@ -1,0 +1,7 @@
+stocks:
+ - PAR-UN.TO
+ - CUF-UN.TO
+
+data:
+ - name
+ - symbol
